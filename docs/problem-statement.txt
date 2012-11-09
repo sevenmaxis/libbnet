@@ -1,6 +1,15 @@
 Implement Gibbs Sampling for Bayesian network inference.
 
-The format for the input file and the grading criteria is given below. Your program should accept the name of the input file as a command-line argument. Your implementation may assume that all variables are Boolean. Along with the code, you have to submit a one-page write-up describing experimentation with your implementation. Create a graph to show how your accuracy varies with chain length. Your results should be averaged over at least 5 Bayes nets of 8-10 nodes each and at least 3 queries per Bayes net, with two evidence variables per query. Use a burn-in of 200. You will want to create additional test data (Bayes nets and queries) for your experimentation. If you want to also experiment with larger Bayes nets, longer chain lengths, longer burn-in, or different numbers of evidence variables, that is fine. Submit a well documented code with a readme giving the compilation and execution instructions.
+The format for the input file and the grading criteria is given below. Your program should accept 
+the name of the input file as a command-line argument. Your implementation may assume that all 
+variables are Boolean. Along with the code, you have to submit a one-page write-up describing 
+experimentation with your implementation. Create a graph to show how your accuracy varies with 
+chain length. Your results should be averaged over at least 5 Bayes nets of 8-10 nodes each and 
+at least 3 queries per Bayes net, with two evidence variables per query. Use a burn-in of 200. 
+You will want to create additional test data (Bayes nets and queries) for your experimentation. 
+If you want to also experiment with larger Bayes nets, longer chain lengths, longer burn-in, or 
+different numbers of evidence variables, that is fine. Submit a well documented code with a readme 
+giving the compilation and execution instructions.
 
 Work in teams of TWO.
 
